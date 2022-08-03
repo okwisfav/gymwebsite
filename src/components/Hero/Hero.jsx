@@ -10,6 +10,8 @@ const Hero = () => {
             <div></div>
             <span>the best fitness club in the town </span>
             </div>
+
+            {/*Hero Heading */}
          </div>
          <div className="right-h"></div>
      </div>
