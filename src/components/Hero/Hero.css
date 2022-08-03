@@ -1,0 +1,19 @@
+.hero{
+    display: flex;
+     justify-content: space-between;
+}
+
+.left-h{
+   padding: 2rem; 
+   padding-top: 1.5rem;
+   flex:3;
+}
+
+.right-h{
+   flex: 1;
+}
+.header-menu>li:hover{
+   cursor: pointer;
+   color: var(--orange);
+}
+
